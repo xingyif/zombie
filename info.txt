@@ -1,0 +1,2 @@
+pool-id: eu-west-1_or02w6Lha
+app-client-id: 1pvdlng529hvhpkk94rt9ecetb
